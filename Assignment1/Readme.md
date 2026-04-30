@@ -1,6 +1,6 @@
 # تنفيذ المخزن الدائري  Circular Buffer Implementation
 
-[](start_span)[](start_span)سأشرح شرح بسيط عن الحل كما هو مذكور بالواجب[](end_span)[](end_span).
+[](start_span)[](start_span)شرح بسيط عن الحل عند تنفيذ المخزن الدائري[](end_span)[](end_span).
 
 ## 1. هيكلية البيانات (Data Structure)
 [](start_span)لقد قمت باستخدام `struct` لتعريف المخزن الدائري حيث يحتوي على العناصر التالية[](end_span):
